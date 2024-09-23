@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Achieving a lifelong goal
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Now that my kids are adults and raising families of their own, I was finally able to go back to school:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Advance my knowledge and understanding of data science
+- Take the next step to a PHD
+- Retire from the corporate world and help the enable future generations
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Part of my role is compliance and privacy, so this seems a bit invasive, since I am not a fictional character - I hope. My public profile is at <a href="https://www.linkedin.com/in/scott-neill-pdo/" target="_blank">Me@linkedin</a>
