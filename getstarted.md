@@ -69,7 +69,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 <div class="gs-section-01" markdown="1">
 
-### 1. Fork this project
+<h3>> 1. Fork this project </h3>
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 </div>
@@ -234,12 +234,18 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 # Add Styles
 
 <style>
+     # only <h3> headers between <div class=gs-section-01> tags
+     .gs-section-01 h3 { 
+          color: red }
 
-.gs-section-01 h3 { 
-     color: red }
+     .gs-section-01 p {
+          font-size: 30px;
+     }
 
-.gs-section-01 p {
-     font-size: 30px;
-}
+     # only <h3> headers between <div class=gs-section-02> tags
+
+     .gs-section-02 h3 { 
+     color: blue
+     }
 
 </style>
