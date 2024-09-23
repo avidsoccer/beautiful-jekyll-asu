@@ -31,10 +31,10 @@ gosling:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-“There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain…” - Cicero (On the Ends of Good and Evil)
+The above is a jumbled version of <em>On the Ends of Good and Evil</em>. </br>
+“There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain…”</br> 
+<bold>Cicero</bold>
 
 <a href="https://github.com/DS4PS/barebones-jekyll/blob/master/_layouts/liquid-table.html" target = "_blank"> 
-          
-</a>
 
 <hr>
