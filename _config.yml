@@ -21,7 +21,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Geting Started: "gettingstarted"
+    - Geting Started: "getstarted"
   Table Demo: "table-demo"
   Author's home: "https://deanattali.com"
 
@@ -83,7 +83,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://avidsoccer.github.io/beautiful-jekyll-asu/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
