@@ -14,4 +14,4 @@ What else do you need?
 
 ### My story
 
-Part of my role is compliance and privacy, so this seems a bit invasive, since I am not a fictional character - I hope. My public profile is at <a href="https://www.linkedin.com/in/scott-neill-pdo/" target="_blank">Me@linkedin</a>
+Part of my role is compliance and privacy, so this seems a bit invasive.  Unless I am also a fictional character. My public profile is at <a href="https://www.linkedin.com/in/scott-neill-pdo/" target="_blank">Me@linkedin</a>
