@@ -24,7 +24,7 @@ gosling:
 
 
 
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
+![](https://avidsoccer.github.io/beautiful-jekyll-asu/assets/img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
